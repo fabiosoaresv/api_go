@@ -11,3 +11,6 @@ go build
 ```console
 ./api_go
 ```
+
+### Tutorial
+https://medium.com/@rafaelacioly/construindo-uma-api-restful-com-go-d6007e4faff6
